@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "superior_diamond:blocks/example_block_2"
+  }
+}
